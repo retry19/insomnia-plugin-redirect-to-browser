@@ -5,6 +5,14 @@
   "description": "Opens 3xx redirect responses in a Chromium-based browser, together with the workspace cookies.",
   "license": "MIT",
   "author": "Reza Rachmanuddin <rezarahmanudin@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retry19/insomnia-plugin-redirect-to-browser.git"
+  },
+  "homepage": "https://github.com/retry19/insomnia-plugin-redirect-to-browser#readme",
+  "bugs": {
+    "url": "https://github.com/retry19/insomnia-plugin-redirect-to-browser/issues"
+  },
   "main": "main.js",
   "files": [
     "main.js",
