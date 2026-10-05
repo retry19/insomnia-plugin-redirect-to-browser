@@ -1,0 +1,21 @@
+{
+  "name": "insomnia-plugin-redirect-to-browser",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Opens 3xx redirect responses in a Chromium-based browser, together with the workspace cookies.",
+  "license": "MIT",
+  "author": "Reza Rachmanuddin <rezarahmanudin@gmail.com>",
+  "main": "main.js",
+  "files": [
+    "main.js",
+    "lib/"
+  ],
+  "insomnia": {
+    "name": "redirect-to-browser",
+    "displayName": "Redirect to browser",
+    "description": "Opens 3xx redirect responses in a Chromium-based browser, together with the workspace cookies."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
